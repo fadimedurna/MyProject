@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "518973951681",
+    "firebase_url": "https://schooltask-db036-default-rtdb.firebaseio.com",
+    "project_id": "schooltask-db036",
+    "storage_bucket": "schooltask-db036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518973951681:android:0d44272b4f57297796ce40",
+        "android_client_info": {
+          "package_name": "tr.edu.mu.ceng.mad.myapplicationme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518973951681-2ujm9oo79t17n4lnvjduogf07023nes6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjg0xfqBUe7jbLRL2pvQ8du9Ydu23VDF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518973951681-2ujm9oo79t17n4lnvjduogf07023nes6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518973951681:android:cba6846b8491325d96ce40",
+        "android_client_info": {
+          "package_name": "tr.edu.mu.ceng.mad.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518973951681-2ujm9oo79t17n4lnvjduogf07023nes6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjg0xfqBUe7jbLRL2pvQ8du9Ydu23VDF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518973951681-2ujm9oo79t17n4lnvjduogf07023nes6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518973951681:android:a5a112aa76bc8f0996ce40",
+        "android_client_info": {
+          "package_name": "tr.edu.mu.ceng.mad.schooltask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518973951681-2ujm9oo79t17n4lnvjduogf07023nes6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjg0xfqBUe7jbLRL2pvQ8du9Ydu23VDF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518973951681-2ujm9oo79t17n4lnvjduogf07023nes6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
