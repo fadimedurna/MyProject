@@ -1,7 +1,4 @@
 Phase 1:
-Name of team memebers:
-•	Fadime Durna
-•	Uğur Kızılkuş
 
 Project Topic: 
 Student Task Assistant
